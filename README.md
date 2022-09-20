@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yee Jian</h1>
-<h3 align="center">A current student in NTU studying Computer Science</h3>
+<h3 align="center">A current student in NTU studying Computer Science. Just testing out this github profile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyeejian&label=Profile%20views&color=0e75b6&style=flat" alt="tyeejian" /> </p>
 
