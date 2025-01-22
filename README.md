@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yee Jian</h1>
-<h3 align="center">A current year 2 student in NTU studying Computer Science. Love exploring new technologies. </h3>
+<h3 align="center">A current final year student in NTU pursuing Bachelor's in Computer Science, Specializing in Data Science. I am a data enthuciates and wishes to expand my career in data engineering roles. Love exploring new technologies. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyeejian&label=Profile%20views&color=0e75b6&style=flat" alt="tyeejian" /> </p>
 
+
 - 📫 How to reach me **yeejiantee02@gmail.com**
+- Connect with me on Linkedin: **https://www.linkedin.com/in/yee-jian-tee-0463b1179/**
 
 <p align="left">
 </p>
